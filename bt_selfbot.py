@@ -10,7 +10,7 @@ import time, datetime, random, sys, json, codecs, threading, glob, re, string, o
 
 cl = LINEBALI.LINE()
 #cl.login(qr=True)
-cl.login(token='TOKENMU')
+cl.login(token='EodMiODuU2S7ngxAmMz0.VCxPZ8LuScburybNLIOGqa.UF//OwbVHHN7MIato8h9JWNIFvgkLTtY+Cs6dl05l/A=')
 cl.loginResult()
 
 print "login success"
@@ -132,8 +132,8 @@ translateMessage =""" 「 TRANSLATE 」
 """
 
 mid = cl.getProfile().mid
-Creator="u08e9cd731858f70f3c2d918cf16484bd"
-admin=["MIDMU"]
+Creator="ucad303333969352466bfecd62089a1b4"
+admin=["ucad303333969352466bfecd62089a1b4"]
 
 wait = {
     "LeaveRoom":True,
